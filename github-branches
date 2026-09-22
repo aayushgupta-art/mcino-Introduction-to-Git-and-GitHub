@@ -1,0 +1,5 @@
+PS C:\Users\ADMIN\OneDrive\Desktop\mcino-Introduction-to-Git-and-GitHub> git branch -vv
+* bug-fix-revert 528f424 [origin/bug-fix-revert] Add pull request verification output
+  bug-fix-typo   2a05408 Fix typo in README
+  main           21bcbb3 [origin/main] Add first merge output
+PS C:\Users\ADMIN\OneDrive\Desktop\mcino-Introduction-to-Git-and-GitHub>
